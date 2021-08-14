@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+border: solid;
+    
+}
+h1{
+    font-size: 50px;
+}
+#app {
+    background-color: aqua;
+    border: solid;
+}
+#game{
+background-color: greenyellow;
+    border: solid;
+}
+#chatbot{
+    background-color: coral;
+    border: solid
+}
